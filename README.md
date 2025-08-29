@@ -1,4 +1,4 @@
-# LOBOS_SALVAJES_13
+# 13_LOBOS_SALVAJES
 
 
 ![Foto Personal](./Diego/Foto_Diego_Meneses.jpg)  
