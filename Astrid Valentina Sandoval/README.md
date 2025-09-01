@@ -1,6 +1,6 @@
 # Astrid Valentina Sandoval
 
-![Foto Personal](Foto Astrid.jpg)
+![Foto Personal](./Foto%20Astrid.jpg)
 
 ## Rol en la Industria
 Ai Game Programer
