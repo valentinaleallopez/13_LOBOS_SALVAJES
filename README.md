@@ -34,3 +34,16 @@
 - **Ubicación:** Bogotá, Colombia  
 - **Perfil:** Soy estudiante de Ingeniería en Multimedia en la UNAD, actualmente cursando séptimo semestre. Apasionado por el arte digital, los videojuegos y el diseño 3D. Me especializo en modelado de entornos, props y personajes, con experiencia en texturizado realista y cartoon. Me interesa combinar la tecnología con la creatividad para generar proyectos innovadores en educación y entretenimiento.  
 
+# Astrid Valentina Sandoval
+
+![Foto Personal](./Astrid%20Valentina%20Sandoval/Foto%20Astrid.jpg)
+
+## Rol en la Industria
+Ai Game Programer
+
+## Ubicación
+Colombia
+
+## Perfil
+Mi nombre es Astrid Valentina Sandoval, estudiante de séptimo semestre de Ingeniería Multimedia. 
+Tengo experiencia en el manejo de Blender, enfocada en la creación y modelado de personajes 3D. Además, domino herramientas de diseño como Adobe Illustrator, Photoshop, Krita e Inkscape, lo que me permite desarrollar piezas gráficas con versatilidad y creatividad.
